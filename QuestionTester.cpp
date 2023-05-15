@@ -1,5 +1,4 @@
 // File Name: QuestionTester.cpp
-//
 // Author: Mohammad Zaeed
 // Collaborators: Dr. Jill Seaman
 // Date: 09/10/2020
