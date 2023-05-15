@@ -3,9 +3,6 @@
 // Author: Mohammad Zaeed
 // Collaborators: Dr. Jill Seaman
 // Date: 09/10/2020
-// Assignment Number:4
-// CS 2308.255 & CS 5301 Fall 2020
-//
 // Driver to test the Question class.
 
 #include <iostream>
